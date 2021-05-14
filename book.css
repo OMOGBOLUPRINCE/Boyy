@@ -1,0 +1,15 @@
+#book {
+background-color: blue;
+color: white;
+}
+#book > div {
+    background-color: rgb(38, 52, 184);
+    color: white;
+}
+h1 {
+    background-color: white;
+    color: black;
+}
+#book > ol {
+    background-color: black;
+}
